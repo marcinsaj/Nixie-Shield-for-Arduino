@@ -1,5 +1,5 @@
 /*
-  Nixie Shield Basic Example 
+  Nixie Shield Simple Counter Example 
 
   This example shows how to make a simple nixie counter.
 
